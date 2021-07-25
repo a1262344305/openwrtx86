@@ -9,4 +9,3 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git helloworld https://github.com/fw876/helloworld
 src-git kenzok8 https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
-src-git poweroff https://github.com/esirplayground/luci-app-poweroff
